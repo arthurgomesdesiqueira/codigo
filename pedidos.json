@@ -1,0 +1,363 @@
+{
+	"pedido1":{
+		"horario": "2M12",
+		"info": "Calculo 1A, 1º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 0,
+		"tipo": "S"
+	},
+	"pedido2":{
+		"horario": "2M34",
+		"info": "Computacao e Sociedade, 1º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 1,
+		"tipo": "S"
+	},
+	"pedido3":{
+		"horario": "2M56",
+		"info": "Fundamentos de Matemática para Computacao, 1º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 2,
+		"tipo": "S"
+	},
+	"pedido4":{
+		"horario": "2T23",
+		"info": "Calculo 2A, 2º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 3,
+		"tipo": "S"
+	},
+	"pedido5":{
+		"horario": "2T4",
+		"info": "Fisica 1, 2º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 4,
+		"tipo": "S"
+	},
+	"pedido6":{
+		"horario": "2T56",
+		"info": "Geometria Analitica, 2º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 5,
+		"tipo": "S"
+	},
+	"pedido7":{
+		"horario": "2N23",
+		"info": "Logica, 2º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 6,
+		"tipo": "S"
+	},
+	"pedido8":{
+		"horario": "2N45",
+		"info": "Probabilidade e Estatistica, 3º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 7,
+		"tipo": "S"
+	},
+	"pedido1":{
+		"horario": "3M12",
+		"info": "Calculo 1A, 1º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 8,
+		"tipo": "S"
+	},
+	"pedido2":{
+		"horario": "3M34",
+		"info": "Computacao e Sociedade, 1º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 9,
+		"tipo": "S"
+	},
+	"pedido3":{
+		"horario": "3M56",
+		"info": "Fundamentos de Matemática para Computacao, 1º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 10,
+		"tipo": "S"
+	},
+	"pedido4":{
+		"horario": "3T23",
+		"info": "Calculo 2A, 2º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 11,
+		"tipo": "S"
+	},
+	"pedido5":{
+		"horario": "3T4",
+		"info": "Fisica 1, 2º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 12,
+		"tipo": "S"
+	},
+	"pedido6":{
+		"horario": "3T56",
+		"info": "Geometria Analitica, 2º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 13,
+		"tipo": "S"
+	},
+	"pedido7":{
+		"horario": "3N23",
+		"info": "Logica, 2º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 14,
+		"tipo": "S"
+	},
+	"pedido8":{
+		"horario": "3N45",
+		"info": "Probabilidade e Estatistica, 3º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 15,
+		"tipo": "S"
+	},
+	"pedido1":{
+		"horario": "4M12",
+		"info": "Calculo 1A, 1º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 16,
+		"tipo": "S"
+	},
+	"pedido2":{
+		"horario": "4M34",
+		"info": "Computacao e Sociedade, 1º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 17,
+		"tipo": "S"
+	},
+	"pedido3":{
+		"horario": "4M56",
+		"info": "Fundamentos de Matemática para Computacao, 1º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 18,
+		"tipo": "S"
+	},
+	"pedido4":{
+		"horario": "4T23",
+		"info": "Calculo 2A, 2º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 19,
+		"tipo": "S"
+	},
+	"pedido5":{
+		"horario": "4T4",
+		"info": "Fisica 1, 2º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 20,
+		"tipo": "S"
+	},
+	"pedido6":{
+		"horario": "4T56",
+		"info": "Geometria Analitica, 2º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 21,
+		"tipo": "S"
+	},
+	"pedido7":{
+		"horario": "4N23",
+		"info": "Logica, 2º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 22,
+		"tipo": "S"
+	},
+	"pedido8":{
+		"horario": "4N45",
+		"info": "Probabilidade e Estatistica, 3º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 23,
+		"tipo": "S"
+	},
+	"pedido1":{
+		"horario": "5M12",
+		"info": "Calculo 1A, 1º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 24,
+		"tipo": "S"
+	},
+	"pedido2":{
+		"horario": "5M34",
+		"info": "Computacao e Sociedade, 1º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 25,
+		"tipo": "S"
+	},
+	"pedido3":{
+		"horario": "5M56",
+		"info": "Fundamentos de Matemática para Computacao, 1º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 26,
+		"tipo": "S"
+	},
+	"pedido4":{
+		"horario": "5T23",
+		"info": "Calculo 2A, 2º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 27,
+		"tipo": "S"
+	},
+	"pedido5":{
+		"horario": "5T4",
+		"info": "Fisica 1, 2º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 28,
+		"tipo": "S"
+	},
+	"pedido6":{
+		"horario": "5T56",
+		"info": "Geometria Analitica, 2º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 29,
+		"tipo": "S"
+	},
+	"pedido7":{
+		"horario": "5N23",
+		"info": "Logica, 2º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 30,
+		"tipo": "S"
+	},
+	"pedido8":{
+		"horario": "5N45",
+		"info": "Probabilidade e Estatistica, 3º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 31,
+		"tipo": "S"
+	},
+	"pedido1":{
+		"horario": "6M12",
+		"info": "Calculo 1A, 1º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 32,
+		"tipo": "S"
+	},
+	"pedido2":{
+		"horario": "6M34",
+		"info": "Computacao e Sociedade, 1º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 33,
+		"tipo": "S"
+	},
+	"pedido3":{
+		"horario": "6M56",
+		"info": "Fundamentos de Matemática para Computacao, 1º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 34,
+		"tipo": "S"
+	},
+	"pedido4":{
+		"horario": "6T23",
+		"info": "Calculo 2A, 2º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 35,
+		"tipo": "S"
+	},
+	"pedido5":{
+		"horario": "6T4",
+		"info": "Fisica 1, 2º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 36,
+		"tipo": "S"
+	},
+	"pedido6":{
+		"horario": "6T56",
+		"info": "Geometria Analitica, 2º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 37,
+		"tipo": "S"
+	},
+	"pedido7":{
+		"horario": "6N23",
+		"info": "Logica, 2º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 38,
+		"tipo": "S"
+	},
+	"pedido8":{
+		"horario": "6N45",
+		"info": "Probabilidade e Estatistica, 3º Periodo",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAB",
+		"prioridade": 39,
+		"tipo": "S"
+	}
+
+}

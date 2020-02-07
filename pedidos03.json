@@ -1,0 +1,63 @@
+{
+	"pedido1":{
+		"horario": "2M12",
+		"info": "A",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAA",
+		"prioridade": 0,					
+        "conjugar": "",
+        "turma": "A",
+        "periodo": 1,
+        "tipo": "S"
+	},
+	"pedido2":{
+		"horario": "2M34",
+		"info": "B",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAA",
+		"prioridade": 0,
+        "conjugar": "",
+        "turma": "A",
+        "periodo": 1,
+        "tipo": "S"
+	},
+	"pedido4":{
+		"horario": "2M56",
+		"info": "D",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "60",
+		"predio": "CAA",
+		"prioridade": 0,
+        "conjugar": "",
+        "turma": "A",
+        "periodo": 1,
+        "tipo": "S"
+	},
+	"pedido5":{
+		"horario": "2M15",
+		"info": "C",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "40",
+		"predio": "IQ",
+		"prioridade": 0,
+        "conjugar": "",
+        "turma": "B",
+        "periodo": 1,
+        "tipo": "S"
+	},
+	"pedido6":{
+		"horario": "2M15",
+		"info": "E",
+		"curso": "Ciencia da Computacao",
+		"capacidade": "55",
+		"predio": "CAC",
+		"prioridade": 0,
+        "conjugar": "",
+        "turma": "B",
+        "periodo": 1,
+        "tipo": "S"
+	}
+
+}

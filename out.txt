@@ -1,0 +1,77 @@
+Pedido: A Cor:106CAC
+Mesmo grupo:
+Pedido: B Cor:106CAC
+Pedido: D Cor:106CAC
+
+
+Pedido: B Cor:106CAC
+Mesmo grupo:
+Pedido: A Cor:106CAC
+Pedido: D Cor:106CAC
+
+
+Pedido: D Cor:106CAC
+Mesmo grupo:
+Pedido: A Cor:106CAC
+Pedido: B Cor:106CAC
+
+
+Pedido: E Cor:204CAC
+Mesmo grupo:
+
+
+Pedido: C Cor:01IQ
+Mesmo grupo:
+
+
+A
+LIGACOES:
+E
+
+
+B
+LIGACOES:
+E
+
+
+D
+LIGACOES:
+E
+
+
+E
+LIGACOES:
+A
+B
+D
+
+
+C
+LIGACOES:
+
+
+A
+B
+D
+E
+C
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NAO ALOCADOS:
+
+Não alocados:
+0
+
